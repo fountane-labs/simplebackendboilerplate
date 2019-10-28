@@ -1,0 +1,5 @@
+node_modules/
+.idea/*
+npm-debug.log
+tmux-client-513.log
+config/firebase-service-account.json
